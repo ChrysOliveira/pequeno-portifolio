@@ -1,0 +1,8 @@
+@import url(base/_reset.css);
+@import url(base/_base.css);
+@import url(elementos/_cabecalho.css);
+@import url(elementos/_menu-lateral.css);
+@import url(elementos/_area-principal.css);
+@import url(componetes/_cartao.css);
+@import url(componetes/_secao.css);
+@import url(base/_pagina-inicial-areas.css);

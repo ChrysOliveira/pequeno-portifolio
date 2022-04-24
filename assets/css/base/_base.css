@@ -1,0 +1,19 @@
+.icon::before {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background-color: #1D232A;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+}
+
+@media screen and (min-width: 1440px) {
+    body {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        grid-template-rows: auto 1fr;
+    }
+}

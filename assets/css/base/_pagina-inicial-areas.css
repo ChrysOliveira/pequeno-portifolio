@@ -1,0 +1,14 @@
+@media screen and (min-width: 1440px) {
+    .titulo-pagina {
+        grid-area: titulo-pagina;
+    }
+    .video-destaque {
+        grid-area: video-destaque;
+    }
+    .fontes {
+        grid-area: fontes;
+    }
+    .secao-projetosCurtos {
+        grid-area: projetos-curtos;
+    }
+}
